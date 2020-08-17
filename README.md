@@ -1,9 +1,9 @@
 # Investigate-a-data-set-project
 This dataset collects information from 110k medical appointments in Brazil. The analysis was made to investigate whether or not patients show up for their doctor's appointments and the patterns behind showing to the appointment. 
 The investegation was done on the dependent variable of "no-show" column which indicates whether the patient showed to the appointment or not Vs the independent variables investegated were: 
-       Gender	
-     - ScheduledDay	
-     - AppointmentDay	
+     ●  Gender	
+     ● ScheduledDay	
+     ●  AppointmentDay	
      - Age	
      - Neighbourhood	
      - Scholarship	
